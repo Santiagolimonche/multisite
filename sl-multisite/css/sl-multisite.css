@@ -1,0 +1,9 @@
+.sl-multisite-info {
+    display: grid;
+    justify-content: center;
+    background-color: #fff;
+}
+
+.sl-multisite-info .info {
+    font-weight: bold;
+}
